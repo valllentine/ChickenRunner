@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CoinController : MonoBehaviour
 {
@@ -25,3 +26,4 @@ public class CoinController : MonoBehaviour
         }
     }
 }
+
